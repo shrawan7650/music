@@ -3,6 +3,7 @@ import HeroSection from "@/components/HeroSection";
 import Navbar from "@/components/Navbar";
 import ScrollCards from "@/components/ScrollCards";
 import ScrollPage from "@/components/ScrollPage";
+import UpcominWebinars from "@/components/UpcominWebinars";
 
 
  export default function Home() {
@@ -13,6 +14,7 @@ import ScrollPage from "@/components/ScrollPage";
       <Cards/>
       <ScrollPage/>
       <ScrollCards/>
+      <UpcominWebinars/>
   </main>
    </>
   );
