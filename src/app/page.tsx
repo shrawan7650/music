@@ -1,4 +1,5 @@
 import Cards from "@/components/Cards";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import Instructors from "@/components/Instructors";
 import Navbar from "@/components/Navbar";
@@ -17,6 +18,7 @@ import UpcominWebinars from "@/components/UpcominWebinars";
       <ScrollCards/>
       <UpcominWebinars/>
       <Instructors/>
+      <Footer/>
   </main>
    </>
   );

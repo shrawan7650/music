@@ -47,7 +47,7 @@
       "description": "Learn the art of jazz improvisation with this course designed for all levels.",
       "price": 139.99,
       "instructor": "Chris Davis",
-      "isFeatured": false,
+      "isFeatured": true,
       "image": "/courses/jazz.jpg"
     },
     {
