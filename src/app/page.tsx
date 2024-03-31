@@ -1,6 +1,7 @@
 import Cards from "@/components/Cards";
 import HeroSection from "@/components/HeroSection";
 import Navbar from "@/components/Navbar";
+import ScrollCards from "@/components/ScrollCards";
 import ScrollPage from "@/components/ScrollPage";
 
 
@@ -11,6 +12,7 @@ import ScrollPage from "@/components/ScrollPage";
       <HeroSection/>
       <Cards/>
       <ScrollPage/>
+      <ScrollCards/>
   </main>
    </>
   );
